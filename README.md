@@ -8,7 +8,9 @@
   - Conhecimentos por curso:
     Curso                 | Conhecimento                 |     Ano
     :---:                 | ---:                         | :---
-    Etec Mtec Informática | C#, HTML, CSS, JS, SQL,      | 2024 a 2026
-                            Instalação e Manutenção de
-                            Computadores, Arduino,
-                            Sistemas Operacionais
+    Etec Mtec Informática | HTML, CSS, JS | 2024-2026
+    Etec Mtec Informática | C# | 2024-2026
+    Etec Mtec Informática | SQL | 2024-2026
+    Etec Mtec Informática | Instalação e Manutenção de Computadores | 2024-2026
+    Etec Mtec Informática | Arduino | 2024-2026
+    Etec Mtec Informática | Sistemas Operacionais | 2024-2026
