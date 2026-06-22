@@ -14,3 +14,6 @@ Objetivos para esse repositório:
     Etec Mtec Informática | Instalação e Manutenção de Computadores | 2024-2026
     Etec Mtec Informática | Arduino | 2024-2026
     Etec Mtec Informática | Sistemas Operacionais | 2024-2026
+
+Repositórios em que participei do desenvolvimento:
+[Projeto CrossTrunfo](https://github.com/Mingliil/CrossTrunfo)
