@@ -1,9 +1,9 @@
 # portfolio
 ## Repositório com o portfólio de Caio Lopes Coutinho.
 
-- Objetivos do Repositório:
-  [x] Criar repositório e editar o README.md
-  [] Publicar arquivos de projetos anteriores
+Objetivos do Repositório:
+  [x]Criar repositório e editar o README.md
+  []Publicar arquivos de projetos anteriores
 
   - Conhecimentos por curso:
     Curso                 | Conhecimento                 |     Ano
