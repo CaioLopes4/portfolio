@@ -7,7 +7,7 @@ Objetivos para esse repositório:
 
   - Conhecimentos por curso:
     Curso                 | Conhecimento                 |     Ano
-    :---:                 | ---:                         | :---
+    :---:                 | :---:                         | :---:
     Etec Mtec Informática | HTML, CSS, JS | 2024-2026
     Etec Mtec Informática | C# | 2024-2026
     Etec Mtec Informática | SQL | 2024-2026
