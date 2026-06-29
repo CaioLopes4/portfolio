@@ -1,5 +1,12 @@
-# portfolio
-## Repositório com o portfólio de Caio Lopes Coutinho.
+# Olá, eu sou Caio Lopes Coutinho
+## Desenvolvedor de Software | Estudante de Tecnologia
+
+![Foto](https://avatars.githubusercontent.com/u/223913656?v=4)
+
+(IMAGEM DE PERFIL PROVISÓRIA)
+
+Bem-vindo ao currículo web! Para se comunicar comigo:
+* [E-mail](mailto:caioclpessoal4@gmail.com)
 
 Objetivos para esse repositório:
 - [x] Criar repositório e editar o README.md
